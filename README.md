@@ -233,7 +233,7 @@ Virtual Optical Disk File... and browse to and open your desired ISO.
 
 
 
-<img src="">
+<img src="Attach-an-ISO.jpg">
 
 
 
@@ -241,6 +241,13 @@ Virtual Optical Disk File... and browse to and open your desired ISO.
 Click OK and now when we launch the VM you will be able to begin your OS installation.
 I mounted a Windows Server 2016 ISO so when I launch the VM I will see the installation screen for this
 OS.
+
+
+
+<img src="">
+
+
+
 
 Now you can run through your OS installation and complete your lab setup.
 Wrapping it Up...
