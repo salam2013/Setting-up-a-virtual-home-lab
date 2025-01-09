@@ -46,6 +46,10 @@ but you can use any you want. The steps will nearly be identical to other virtua
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the
 installation.
 
+
+<img src="">
+
+
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you
 need to select &quot;yes&#39;.
 
