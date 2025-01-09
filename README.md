@@ -82,12 +82,16 @@ pages.
 I am going to specify a name of &quot;MyVM&quot; and 2048 MB (2gb) of RAM then I will click Create.
 
 
-<img src="">
+<img src="New-Vm2.jpg">
 
 
 
 This will open another window for creating the Virtual Hard Disk. The default options here are all fine
 except for the File Size. I am going to set my new HDD to 60GB and then choose Create.
+
+
+<img src="">
+
 
 Since this HDD is going to be dynamically allocated (option on the middle-right of the screenshot below),
 the HDD file will only be as large as the amount of data stored on it - and a maximum of 60GB
