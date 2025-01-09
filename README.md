@@ -147,7 +147,7 @@ the plus button to create a new NAT Network.
 
 
 
-<img src="">
+<img src="NAT-Network.jpg">
 
 
 
@@ -170,6 +170,13 @@ used for test web servers (think copying files from the host computer to the VM 
 editing the code on the web server VM from your host computer.
  
 You can create a host-only network by select File &gt; Host Network Manager
+
+
+
+
+<img src="">
+
+
 
 <h2>Generic Driver</h2>
 Oracles documentation for the generic driver states:
