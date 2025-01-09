@@ -191,13 +191,20 @@ do this by double-clicking the NAT Network.
 
 
 
-<img src="">
+<img src="NAT-Network-2.jpg">
 
 
 
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and
 use a NAT Network.
+
+
+
+<img src="">
+
+
+
 
 <h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a
