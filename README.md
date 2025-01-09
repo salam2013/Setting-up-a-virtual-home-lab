@@ -25,7 +25,7 @@ On the image below - the top computer would be the host computer. The three co
 host are referred to as guest virtual machines.
 
 
-<img src=             >
+<img src="Screenshot 2025-01-09 204051.png"             >
 
 
 
