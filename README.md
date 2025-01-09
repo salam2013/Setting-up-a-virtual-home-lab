@@ -73,6 +73,8 @@ This will launch the new VM window. Go ahead and click the Expert Mode button.
 doesn&#39;t make the process more difficult it only allows you to create a VM while navigating through less
 pages.
 
+<img scr="">
+
 I am going to specify a name of &quot;MyVM&quot; and 2048 MB (2gb) of RAM then I will click Create.
 
 This will open another window for creating the Virtual Hard Disk. The default options here are all fine
