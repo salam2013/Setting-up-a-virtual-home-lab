@@ -109,7 +109,7 @@ increase the number of CPUs to 2.
 Pro tip: Storing the VM&#39;s hard disk file on an SSD will also significantly increase the VMs performance.
 
 
-<img src="">
+<img src="CPUs.jpg">
 
 
 
@@ -124,6 +124,11 @@ Keep in mind that you won&#39;t be able to access all of these network types if 
 because some of them are configured from within the VM settings.
  
 Here is an overview of the different network types you could create:
+
+
+
+<img src="">
+
 
 <h2>NAT</h2>
 This network type allows your VMs to use the internet connectivity of the host computer. You will have
