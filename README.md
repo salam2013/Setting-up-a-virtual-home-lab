@@ -47,7 +47,7 @@ Download Oracle VM VirtualBox by clicking here. Once the download completes, I 
 installation.
 
 
-<img src="">
+<img src="VirtualBox-Install.jpg">
 
 
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you
