@@ -100,13 +100,18 @@ settings of the VM if we want. Generally you might want to assign more processor
 networking adapters and mount an ISO.
 
 
-<img src="">
+<img src="VM-Settings.jpg">
 
 
 
 Increasing the processor CPUs can greatly improve the performance of your VM, so if at all possible
 increase the number of CPUs to 2.
 Pro tip: Storing the VM&#39;s hard disk file on an SSD will also significantly increase the VMs performance.
+
+
+<img src="">
+
+
 
 And that is all we need to do to create the VM. Of course we can&#39;t start the VM yet because we haven&#39;t
 downloaded or attached an operating system ISO... But we will cover that in the next section.
