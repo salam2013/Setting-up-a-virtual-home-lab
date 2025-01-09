@@ -24,6 +24,10 @@ host computer.
 On the image below - the top computer would be the host computer. The three computers below the
 host are referred to as guest virtual machines.
 
+
+
+
+
 Virtual machines act like real computers, but run as a software program. So you can start, restart, shut
 down, install software and operating systems just like you would on a normal computer.
 This makes virtual machines perfect for IT labs.
