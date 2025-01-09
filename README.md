@@ -127,7 +127,9 @@ Here is an overview of the different network types you could create:
 
 
 
-<img src="">
+<img src="VirtualBox-VM-Adapter-Types.jpg">
+
+
 
 
 <h2>NAT</h2>
@@ -142,6 +144,12 @@ to the same NAT network. Use this when your labs use multiple VMs and need inter
  
 You can create a NAT Network by clicking on File &gt; Preferences. Select the Network tab and then click
 the plus button to create a new NAT Network.
+
+
+
+<img src="">
+
+
 
 <h2>Bridged Adapter</h2>
 Using this network type will cause your router to treat your VM as a physical computer. This means your
