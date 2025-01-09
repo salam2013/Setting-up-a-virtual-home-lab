@@ -53,6 +53,9 @@ installation.
 I Proceeded through the installation using all of the default options. Any prompts that are a yes/no you
 need to select &quot;yes&#39;.
 
+<img src="">
+
+
 Click Finish and launch VirtualBox.
 
 <h2>Creating a Virtual Machine</h2>
