@@ -75,11 +75,16 @@ pages.
 
 
 
-<img scr="New-VM.jpg">
+<img src="New-VM.jpg">
 
 
 
 I am going to specify a name of &quot;MyVM&quot; and 2048 MB (2gb) of RAM then I will click Create.
+
+
+<img src="">
+
+
 
 This will open another window for creating the Virtual Hard Disk. The default options here are all fine
 except for the File Size. I am going to set my new HDD to 60GB and then choose Create.
