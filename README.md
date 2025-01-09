@@ -59,11 +59,15 @@ need to select &quot;yes&#39;.
 Click Finish and launch VirtualBox.
 
 
-<img src="">
+<img src="VirtualBox-Dashboard.jpg">
 
 <h2>Creating a Virtual Machine</h2>
 Now that we know what type of virtual network we want to use it&#39;s time to create a VM (Virtual
 Machine). We can do this by clicking the New button within the VirtualBox Manager.
+
+
+<img src="">
+
 
 This will launch the new VM window. Go ahead and click the Expert Mode button. Don&#39;t worry - it
 doesn&#39;t make the process more difficult it only allows you to create a VM while navigating through less
