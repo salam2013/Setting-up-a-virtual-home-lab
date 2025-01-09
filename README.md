@@ -66,7 +66,7 @@ Now that we know what type of virtual network we want to use it&#39;s time to cr
 Machine). We can do this by clicking the New button within the VirtualBox Manager.
 
 
-<img src="">
+<img src="New.jpg">
 
 
 This will launch the new VM window. Go ahead and click the Expert Mode button. Don&#39;t worry - it
