@@ -174,7 +174,7 @@ You can create a host-only network by select File &gt; Host Network Manager
 
 
 
-<img src="">
+<img src="Host-Only-Network-Adapters.jpg">
 
 
 
@@ -188,6 +188,12 @@ First I will select File &gt; Preferences, then navigate to the Network tab. Nex
 (circled in the image above).
 This will create a new NAT Network. If I want to modify the subnet, disable DHCP or support IPv6 I can
 do this by double-clicking the NAT Network.
+
+
+
+<img src="">
+
+
 
 I am going to leave all of these options at default... so I am done creating the Virtual Network!
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and
