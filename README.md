@@ -244,7 +244,7 @@ OS.
 
 
 
-<img src="">
+<img src="Windows-Server-2016-Install-2.jpg">
 
 
 
