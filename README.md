@@ -6,7 +6,7 @@ purpose old computers. While this can be very beneficial as far as IT experience
 much faster simply to build a free virtualized IT lab.
  
 Let&#39;s dive in!
-Index
+<h2>Index<h2></h2>
  Virtualization Overview
  Free Virtualization Software
  Downloading and Installing VirtualBox
@@ -16,7 +16,7 @@ Index
  Installing an OS on Your Lab VMs
  Conclusion
 
-Virtualization Overview
+<h2>Virtualization Overview</h2>
 So what is virtualization anyway? Basically, the IT term virtualization refers to the practice of emulating
 (or simulating) a computer. You can use a Virtual Machine to run a computer as an application on your
 host computer.
@@ -27,7 +27,7 @@ host are referred to as guest virtual machines.
 Virtual machines act like real computers, but run as a software program. So you can start, restart, shut
 down, install software and operating systems just like you would on a normal computer.
 This makes virtual machines perfect for IT labs.
-Free Virtualization Software
+<h2>Free Virtualization Software</h2>
 With so many different virtualization software options available, it can be pretty confusing to know
 which one is the &quot;best&quot; and which one you should use. Let&#39;s address this now.
  
@@ -37,7 +37,7 @@ consider will depend on your host operating system.
 In this setup I will be using Oracle VM VirtualBox because it is compatible with both Windows and Linux,
 but you can use any you want. The steps will nearly be identical to other virtualization software.
  
-Downloading and Installing VirtualBox
+<h2></h2>Downloading and Installing VirtualBox</h2>
 Download Oracle VM VirtualBox by clicking here. Once the download completes, I launched the
 installation.
 
@@ -46,7 +46,7 @@ need to select &quot;yes&#39;.
 
 Click Finish and launch VirtualBox.
 
-Creating a Virtual Machine
+<h2>Creating a Virtual Machine</h2>
 Now that we know what type of virtual network we want to use it&#39;s time to create a VM (Virtual
 Machine). We can do this by clicking the New button within the VirtualBox Manager.
 
@@ -71,7 +71,7 @@ Pro tip: Storing the VM&#39;s hard disk file on an SSD will also significantly i
 
 And that is all we need to do to create the VM. Of course we can&#39;t start the VM yet because we haven&#39;t
 downloaded or attached an operating system ISO... But we will cover that in the next section.
-Creating a Virtual Network with VirtualBox
+<h2>Creating a Virtual Network with VirtualBox</h2>
 Virtual Networks allow you to connect your VMs to whatever you want. There are several different
 types of networks you can create with VirtualBox and the one you chose will depend on your
 requirements.
@@ -81,31 +81,31 @@ because some of them are configured from within the VM settings.
  
 Here is an overview of the different network types you could create:
 
-NAT
+<h2>NAT</h2>
 This network type allows your VMs to use the internet connectivity of the host computer. You will have
 no connectivity to other VMs or the host computer. Use this type if your lab will only have one VM.
  
 Using NAT is as simple as right-clicking your VM and selecting Settings then navigating to the Network
 tab (image above)
-NAT Network
+<h2></h2>NAT Network</h2>
 This network is the same as NAT, but it allows your VMs to communicate to other VMs that are attached
 to the same NAT network. Use this when your labs use multiple VMs and need internet connectivity.
  
 You can create a NAT Network by clicking on File &gt; Preferences. Select the Network tab and then click
 the plus button to create a new NAT Network.
 
-Bridged Adapter
+<h2>Bridged Adapter</h2>
 Using this network type will cause your router to treat your VM as a physical computer. This means your
 VM will be connected to the same network as your host computer. Use this lab when you need to access
 your VMs from your host network.
 Using a bridged adapter is as simple as right-clicking your VM and selecting Settings then navigating to
 the Network tab (image above)
-Internal Network
+<h2></h2>Internal Network</h2>
 This network provides your VMs with connectivity but no external access. Use this when you want to
 create an isolated IT lab.
 Using an Internal Network is as simple as right-clicking your VM and selecting Settings then navigating to
 the Network tab (image above)
-Host-only Adapter
+<h2></h2>Host-only Adapter</h2>
 This is essentially the same as an internal network, except that your host computer will have a direct IP
 connection to the VM. Meaning you can RDP, SSH or ping the VMs from the host computer. Use this
 network type when you will need direct access to the VMs from your host computer. It is commonly
@@ -114,7 +114,7 @@ editing the code on the web server VM from your host computer.
  
 You can create a host-only network by select File &gt; Host Network Manager
 
-Generic Driver
+<h2>Generic Driver</h2>
 Oracles documentation for the generic driver states:
 The generic driver attachment is special and cannot be considered as an alternative to other attachment
 types.
@@ -129,7 +129,7 @@ I am going to leave all of these options at default... so I am done creating the
 Configure the Networking tab for your chosen network type. Again, the easiest solution is to create and
 use a NAT Network.
 
-Downloading Your operating systems ISO(s)
+<h2>Downloading Your operating systems ISO(s)</h2>
 Next we need an operating system (OS) to install on our Virtual Machines. You could do this with a
 physical disc if you wanted, but most of the time you will want to download an ISO for OS installations.
 
@@ -146,7 +146,7 @@ Windows 10 (requires a valid Windows 10 license to download)
 Centos 7
 Ubuntu
 Kali Linux
-Installing an OS on Your Lab VMs
+<h2>Installing an OS on Your Lab VMs</h2>
 Once you have downloaded your ISO file, it&#39;s time to mount it to your VM in VirtualBox. Mounting a VM
 is essentially like virtually inserting a disc into a DVD drive of a computer.
  
